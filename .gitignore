@@ -1,0 +1,6 @@
+# Ignore PRAW configuration file containing secrets
+praw.ini
+
+# Ignore any temporary Python files
+__pycache__/
+*.pyc
